@@ -5,7 +5,7 @@ own content management system (CMS).
 
 A project to learn the following python Django concepts:
 
-1. [ ] Create models for the CMS
+1. [x] Create models for the CMS
 2. [ ] Create fixtures for your models and apply them
 3. [ ] Use model inheritance to create data models for polymorphic content 
 4. [ ] Create custom model fields
