@@ -9,7 +9,7 @@ A project to learn the following python Django concepts:
 2. [x] Create fixtures for your models and apply them
 3. [x] Use model inheritance to create data models for polymorphic content 
 4. [x] Create custom model fields
-5. [ ] Order course contents and modules
+5. [x] Order course contents and modules
 6. [ ] Build authentication views for the CMS
 
 
