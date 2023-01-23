@@ -16,7 +16,7 @@ A project to learn the following python Django concepts:
 
 ### Part 2
 
-1. [ ] Create a content management system using class-based views and mixins
+1. [x] Create a content management system using class-based views and mixins
 2. [ ] Build formsets and model formsets to edit course modules and module contents
 3. [ ] Manage groups and permissions
 4. [ ] Implement a drag-and-drop functionality to reorder modules and content
